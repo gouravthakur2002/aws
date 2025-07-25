@@ -497,7 +497,7 @@ export default function TaskPage({ params }: { params: { id: string } }) {
             <div className="flex items-center space-x-4">
               <ThemeToggle />
               <div className="text-right text-sm text-muted-foreground">
-                <div> Arjun Dixit | Roll No: 59 | Section: 06</div>
+                <div> Gourav Thakur | Roll No: 60 | Section: 07</div>
               </div>
             </div>
           </div>
