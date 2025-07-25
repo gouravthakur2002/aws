@@ -275,7 +275,7 @@ export default function HomePage() {
               <span className="text-lg font-semibold">AWS Terraform Documentation</span>
             </div>
             <p className="text-muted-foreground mb-4">
-              &copy; 2024 AWS Terraform Documentation - Arjun Dixit | Roll No: 59 | Section: 06
+              &copy; 2024 AWS Terraform Documentation - Gourav Thakur| Roll No: 60 | Section: 07
             </p>
             <div className="flex items-center justify-center space-x-6 text-sm text-muted-foreground">
               <span>Infrastructure as Code</span>
